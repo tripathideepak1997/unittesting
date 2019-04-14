@@ -1,4 +1,3 @@
-from appone.views import *
 import unittest
 from django.test.client import RequestFactory
 

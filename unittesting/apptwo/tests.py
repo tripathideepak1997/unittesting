@@ -1,6 +1,4 @@
-from django.test import TestCase
-from django.http import HttpResponse
-from apptwo.views import wishing_user
+from unittesting.apptwo import wishing_user
 import unittest
 from django.test.client import RequestFactory
 
